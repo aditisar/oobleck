@@ -1,6 +1,8 @@
-oobleck
+## Ooooobleck
 =======
 
-oooooobleck
+Final Project for Introduction to Physical Computing, Fall 2014  
 
-physcomp.org/final-project-non-newtonian-composition/
+[Full Documentation](physcomp.org/final-project-non-newtonian-composition/)
+
+This repo also contains code for a Leapmotion -> PureData tutorial found [here](http://physcomp.org/tutorial-leap-motion-to-puredata/)
